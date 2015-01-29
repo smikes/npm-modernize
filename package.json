@@ -1,6 +1,6 @@
 {
   "name": "npm-modernize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "interactively update dependencies, verified by tests",
   "main": "index.js",
   "scripts": {

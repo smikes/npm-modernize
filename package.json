@@ -1,0 +1,17 @@
+{
+  "name": "npm-modernize",
+  "version": "1.0.0",
+  "description": "interactively update dependencies, verified by tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -L -n jslint -tc 100"
+  },
+  "keywords": [
+    "npm",
+    "update",
+    "modernize",
+    "dependency"
+  ],
+  "author": "Sam Mikes <smikes@cubane.com>",
+  "license": "MIT"
+}
